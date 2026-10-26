@@ -1,0 +1,9 @@
+scikit-learn 
+joblib
+fastapi
+uvicorn
+pydantic
+httpx
+pytest
+mlflow
+
